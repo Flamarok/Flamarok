@@ -52,4 +52,20 @@
   </a>
 </div>
 
+<div>
+  <br>
+    <h3 align="center"><b>Sobre mi</b></h1>
+    <ul>
+      <li>Estudiante Técnico en Programación en la Universidad Nacional de Hurlingham. 📚</li>
+      <li>Diseñador Web. 🧰</li>
+      <li>Enfocado en el Analisas de Datos. 👨‍💻</li>
+      <li>Gamer. 🎮</li>
+    </ul>
+      Mi nombré es Franco Anderson estudiante universitario de programación con conocimientos sólidos en lenguajes y tecnologías como HTML, CSS, JavaScript, Python y SQL, en búsqueda de mi primera experiencia en el sector IT.
+Estoy en constante aprendizaje, interesado en seguir creciendo profesionalmente en áreas como el análisis de datos y bases de datos. 
+      Me destaco por mi capacidad para resolver problemas, mi entusiasmo por aprender nuevas herramientas y mi compromiso para contribuir al éxito de los proyectos en los que participo.
+  </br>
+  
+</div>
+
 ###
